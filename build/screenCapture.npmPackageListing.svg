@@ -1,316 +1,316 @@
 <svg height="5006" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="5006" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-11 17:13:35 +0000   453866 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-11 17:13:35 +0000     3834 bytes  README.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-11 17:13:35 +0000      593 bytes  generators/app/advanced-prompts.json</tspan>
-<tspan x="10" y="74">  3.  2017-04-11 17:13:35 +0000     1375 bytes  generators/app/files.json</tspan>
-<tspan x="10" y="90">  4.  2017-04-11 17:13:35 +0000     1508 bytes  generators/app/index.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-11 17:13:35 +0000     1416 bytes  generators/app/options.json</tspan>
-<tspan x="10" y="122">  6.  2017-04-11 17:13:35 +0000     9633 bytes  generators/app/prompts.json</tspan>
-<tspan x="10" y="138">  7.  2017-04-11 17:13:35 +0000     3429 bytes  generators/app/src/bower.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-11 17:13:35 +0000     1362 bytes  generators/app/src/files.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-11 17:13:35 +0000      379 bytes  generators/app/src/mock-options.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-11 17:13:35 +0000     2828 bytes  generators/app/src/mock-prompts.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-11 17:13:35 +0000     1171 bytes  generators/app/src/modules.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-11 17:13:35 +0000      904 bytes  generators/app/src/options.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-11 17:13:35 +0000     1247 bytes  generators/app/src/paths.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-11 17:13:35 +0000     2910 bytes  generators/app/src/preprocessors.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-11 17:13:35 +0000     4451 bytes  generators/app/src/prompts.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-11 17:13:35 +0000     1637 bytes  generators/app/src/router.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-11 17:13:35 +0000     1322 bytes  generators/app/src/techs.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-11 17:13:35 +0000     1367 bytes  generators/app/src/ui.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-11 17:13:35 +0000     1946 bytes  generators/app/src/utils.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-11 17:13:35 +0000     2569 bytes  generators/app/src/write.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-11 17:13:35 +0000     6173 bytes  generators/app/techs.json</tspan>
-<tspan x="10" y="378"> 22.  2017-04-11 17:13:35 +0000      397 bytes  generators/app/templates/_.eslintrc</tspan>
-<tspan x="10" y="394"> 23.  2017-04-11 17:13:35 +0000      184 bytes  generators/app/templates/_.gitignore</tspan>
-<tspan x="10" y="410"> 24.  2017-04-11 17:13:35 +0000     2994 bytes  generators/app/templates/_bower.json</tspan>
-<tspan x="10" y="426"> 25.  2017-04-11 17:13:35 +0000     4057 bytes  generators/app/templates/_karma.conf.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-11 17:13:35 +0000     3491 bytes  generators/app/templates/_package.json</tspan>
-<tspan x="10" y="458"> 27.  2017-04-11 17:13:35 +0000     3272 bytes  generators/app/templates/_typings.json</tspan>
-<tspan x="10" y="474"> 28.  2017-04-11 17:13:35 +0000     2225 bytes  generators/app/templates/coffeelint.json</tspan>
-<tspan x="10" y="490"> 29.  2017-04-11 17:13:35 +0000      613 bytes  generators/app/templates/e2e/_main.po.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-11 17:13:35 +0000      572 bytes  generators/app/templates/e2e/main.spec.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-11 17:13:35 +0000     1746 bytes  generators/app/templates/gulp/README.md</tspan>
-<tspan x="10" y="538"> 32.  2017-04-11 17:13:35 +0000     5170 bytes  generators/app/templates/gulp/_build.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-11 17:13:35 +0000     1107 bytes  generators/app/templates/gulp/_conf.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-11 17:13:35 +0000     2163 bytes  generators/app/templates/gulp/_inject.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-11 17:13:35 +0000      991 bytes  generators/app/templates/gulp/_markups.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-11 17:13:35 +0000     3606 bytes  generators/app/templates/gulp/_scripts.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-11 17:13:35 +0000     1974 bytes  generators/app/templates/gulp/_server.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-11 17:13:35 +0000     2520 bytes  generators/app/templates/gulp/_styles.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-11 17:13:35 +0000     2000 bytes  generators/app/templates/gulp/_unit-tests.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-11 17:13:35 +0000     1807 bytes  generators/app/templates/gulp/_watch.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-11 17:13:35 +0000     1074 bytes  generators/app/templates/gulp/e2e-tests.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-11 17:13:35 +0000      655 bytes  generators/app/templates/gulpfile.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-11 17:13:35 +0000      746 bytes  generators/app/templates/protractor.conf.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-11 17:13:35 +0000     2329 bytes  generators/app/templates/src/_index.html</tspan>
-<tspan x="10" y="746"> 45.  2017-04-11 17:13:35 +0000     1978 bytes  generators/app/templates/src/app/_angular-materi\</tspan>
+<tspan x="10" y="26">  0.  2017-04-11 17:16:36 +0000   453866 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-11 17:16:36 +0000     3834 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-11 17:16:36 +0000      593 bytes  generators/app/advanced-prompts.json</tspan>
+<tspan x="10" y="74">  3.  2017-04-11 17:16:36 +0000     1375 bytes  generators/app/files.json</tspan>
+<tspan x="10" y="90">  4.  2017-04-11 17:16:36 +0000     1508 bytes  generators/app/index.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-11 17:16:36 +0000     1416 bytes  generators/app/options.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-11 17:16:36 +0000     9633 bytes  generators/app/prompts.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-11 17:16:36 +0000     3429 bytes  generators/app/src/bower.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-11 17:16:36 +0000     1362 bytes  generators/app/src/files.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-11 17:16:36 +0000      379 bytes  generators/app/src/mock-options.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-11 17:16:36 +0000     2828 bytes  generators/app/src/mock-prompts.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-11 17:16:36 +0000     1171 bytes  generators/app/src/modules.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-11 17:16:36 +0000      904 bytes  generators/app/src/options.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-11 17:16:36 +0000     1247 bytes  generators/app/src/paths.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-11 17:16:36 +0000     2910 bytes  generators/app/src/preprocessors.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-11 17:16:36 +0000     4451 bytes  generators/app/src/prompts.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-11 17:16:36 +0000     1637 bytes  generators/app/src/router.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-11 17:16:36 +0000     1322 bytes  generators/app/src/techs.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-11 17:16:36 +0000     1367 bytes  generators/app/src/ui.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-11 17:16:36 +0000     1946 bytes  generators/app/src/utils.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-11 17:16:36 +0000     2569 bytes  generators/app/src/write.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-11 17:16:36 +0000     6173 bytes  generators/app/techs.json</tspan>
+<tspan x="10" y="378"> 22.  2017-04-11 17:16:36 +0000      397 bytes  generators/app/templates/_.eslintrc</tspan>
+<tspan x="10" y="394"> 23.  2017-04-11 17:16:36 +0000      184 bytes  generators/app/templates/_.gitignore</tspan>
+<tspan x="10" y="410"> 24.  2017-04-11 17:16:36 +0000     2994 bytes  generators/app/templates/_bower.json</tspan>
+<tspan x="10" y="426"> 25.  2017-04-11 17:16:36 +0000     4057 bytes  generators/app/templates/_karma.conf.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-11 17:16:36 +0000     3491 bytes  generators/app/templates/_package.json</tspan>
+<tspan x="10" y="458"> 27.  2017-04-11 17:16:36 +0000     3272 bytes  generators/app/templates/_typings.json</tspan>
+<tspan x="10" y="474"> 28.  2017-04-11 17:16:36 +0000     2225 bytes  generators/app/templates/coffeelint.json</tspan>
+<tspan x="10" y="490"> 29.  2017-04-11 17:16:36 +0000      613 bytes  generators/app/templates/e2e/_main.po.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-11 17:16:36 +0000      572 bytes  generators/app/templates/e2e/main.spec.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-11 17:16:36 +0000     1746 bytes  generators/app/templates/gulp/README.md</tspan>
+<tspan x="10" y="538"> 32.  2017-04-11 17:16:36 +0000     5170 bytes  generators/app/templates/gulp/_build.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-11 17:16:36 +0000     1107 bytes  generators/app/templates/gulp/_conf.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-11 17:16:36 +0000     2163 bytes  generators/app/templates/gulp/_inject.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-11 17:16:36 +0000      991 bytes  generators/app/templates/gulp/_markups.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-11 17:16:36 +0000     3606 bytes  generators/app/templates/gulp/_scripts.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-11 17:16:36 +0000     1974 bytes  generators/app/templates/gulp/_server.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-11 17:16:36 +0000     2520 bytes  generators/app/templates/gulp/_styles.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-11 17:16:36 +0000     2000 bytes  generators/app/templates/gulp/_unit-tests.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-11 17:16:36 +0000     1807 bytes  generators/app/templates/gulp/_watch.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-11 17:16:36 +0000     1074 bytes  generators/app/templates/gulp/e2e-tests.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-11 17:16:36 +0000      655 bytes  generators/app/templates/gulpfile.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-11 17:16:36 +0000      746 bytes  generators/app/templates/protractor.conf.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-11 17:16:36 +0000     2329 bytes  generators/app/templates/src/_index.html</tspan>
+<tspan x="10" y="746"> 45.  2017-04-11 17:16:36 +0000     1978 bytes  generators/app/templates/src/app/_angular-materi\</tspan>
 <tspan x="10" y="762">al/__angular-material-index.css</tspan>
-<tspan x="10" y="778"> 46.  2017-04-11 17:13:35 +0000     2315 bytes  generators/app/templates/src/app/_angular-materi\</tspan>
+<tspan x="10" y="778"> 46.  2017-04-11 17:16:36 +0000     2315 bytes  generators/app/templates/src/app/_angular-materi\</tspan>
 <tspan x="10" y="794">al/__angular-material-index.less</tspan>
-<tspan x="10" y="810"> 47.  2017-04-11 17:13:35 +0000     2318 bytes  generators/app/templates/src/app/_angular-materi\</tspan>
+<tspan x="10" y="810"> 47.  2017-04-11 17:16:36 +0000     2318 bytes  generators/app/templates/src/app/_angular-materi\</tspan>
 <tspan x="10" y="826">al/__angular-material-index.scss</tspan>
-<tspan x="10" y="842"> 48.  2017-04-11 17:13:35 +0000     2265 bytes  generators/app/templates/src/app/_angular-materi\</tspan>
+<tspan x="10" y="842"> 48.  2017-04-11 17:16:36 +0000     2265 bytes  generators/app/templates/src/app/_angular-materi\</tspan>
 <tspan x="10" y="858">al/__angular-material-index.styl</tspan>
-<tspan x="10" y="874"> 49.  2017-04-11 17:13:35 +0000      170 bytes  generators/app/templates/src/app/_bootstrap/__bo\</tspan>
+<tspan x="10" y="874"> 49.  2017-04-11 17:16:36 +0000      170 bytes  generators/app/templates/src/app/_bootstrap/__bo\</tspan>
 <tspan x="10" y="890">otstrap-index.css</tspan>
-<tspan x="10" y="906"> 50.  2017-04-11 17:13:35 +0000      807 bytes  generators/app/templates/src/app/_bootstrap/__bo\</tspan>
+<tspan x="10" y="906"> 50.  2017-04-11 17:16:36 +0000      807 bytes  generators/app/templates/src/app/_bootstrap/__bo\</tspan>
 <tspan x="10" y="922">otstrap-index.less</tspan>
-<tspan x="10" y="938"> 51.  2017-04-11 17:13:35 +0000      859 bytes  generators/app/templates/src/app/_bootstrap/__bo\</tspan>
+<tspan x="10" y="938"> 51.  2017-04-11 17:16:36 +0000      859 bytes  generators/app/templates/src/app/_bootstrap/__bo\</tspan>
 <tspan x="10" y="954">otstrap-index.scss</tspan>
-<tspan x="10" y="970"> 52.  2017-04-11 17:13:35 +0000      804 bytes  generators/app/templates/src/app/_bootstrap/__bo\</tspan>
+<tspan x="10" y="970"> 52.  2017-04-11 17:16:36 +0000      804 bytes  generators/app/templates/src/app/_bootstrap/__bo\</tspan>
 <tspan x="10" y="986">otstrap-index.styl</tspan>
-<tspan x="10" y="1002"> 53.  2017-04-11 17:13:35 +0000      198 bytes  generators/app/templates/src/app/_foundation/__f\</tspan>
+<tspan x="10" y="1002"> 53.  2017-04-11 17:16:36 +0000      198 bytes  generators/app/templates/src/app/_foundation/__f\</tspan>
 <tspan x="10" y="1018">oundation-index.css</tspan>
-<tspan x="10" y="1034"> 54.  2017-04-11 17:13:35 +0000      549 bytes  generators/app/templates/src/app/_foundation/__f\</tspan>
+<tspan x="10" y="1034"> 54.  2017-04-11 17:16:36 +0000      549 bytes  generators/app/templates/src/app/_foundation/__f\</tspan>
 <tspan x="10" y="1050">oundation-index.less</tspan>
-<tspan x="10" y="1066"> 55.  2017-04-11 17:13:35 +0000     1020 bytes  generators/app/templates/src/app/_foundation/__f\</tspan>
+<tspan x="10" y="1066"> 55.  2017-04-11 17:16:36 +0000     1020 bytes  generators/app/templates/src/app/_foundation/__f\</tspan>
 <tspan x="10" y="1082">oundation-index.scss</tspan>
-<tspan x="10" y="1098"> 56.  2017-04-11 17:13:35 +0000      519 bytes  generators/app/templates/src/app/_foundation/__f\</tspan>
+<tspan x="10" y="1098"> 56.  2017-04-11 17:16:36 +0000      519 bytes  generators/app/templates/src/app/_foundation/__f\</tspan>
 <tspan x="10" y="1114">oundation-index.styl</tspan>
-<tspan x="10" y="1130"> 57.  2017-04-11 17:13:35 +0000      370 bytes  generators/app/templates/src/app/_index.config.c\</tspan>
+<tspan x="10" y="1130"> 57.  2017-04-11 17:16:36 +0000      370 bytes  generators/app/templates/src/app/_index.config.c\</tspan>
 <tspan x="10" y="1146">offee</tspan>
-<tspan x="10" y="1162"> 58.  2017-04-11 17:13:35 +0000      345 bytes  generators/app/templates/src/app/_index.config.e\</tspan>
+<tspan x="10" y="1162"> 58.  2017-04-11 17:16:36 +0000      345 bytes  generators/app/templates/src/app/_index.config.e\</tspan>
 <tspan x="10" y="1178">s6</tspan>
-<tspan x="10" y="1194"> 59.  2017-04-11 17:13:35 +0000      462 bytes  generators/app/templates/src/app/_index.config.j\</tspan>
+<tspan x="10" y="1194"> 59.  2017-04-11 17:16:36 +0000      462 bytes  generators/app/templates/src/app/_index.config.j\</tspan>
 <tspan x="10" y="1210">s</tspan>
-<tspan x="10" y="1226"> 60.  2017-04-11 17:13:35 +0000      373 bytes  generators/app/templates/src/app/_index.config.t\</tspan>
+<tspan x="10" y="1226"> 60.  2017-04-11 17:16:36 +0000      373 bytes  generators/app/templates/src/app/_index.config.t\</tspan>
 <tspan x="10" y="1242">s</tspan>
-<tspan x="10" y="1258"> 61.  2017-04-11 17:13:35 +0000       95 bytes  generators/app/templates/src/app/_index.constant\</tspan>
+<tspan x="10" y="1258"> 61.  2017-04-11 17:16:36 +0000       95 bytes  generators/app/templates/src/app/_index.constant\</tspan>
 <tspan x="10" y="1274">s.coffee</tspan>
-<tspan x="10" y="1290"> 62.  2017-04-11 17:13:35 +0000      189 bytes  generators/app/templates/src/app/_index.constant\</tspan>
+<tspan x="10" y="1290"> 62.  2017-04-11 17:16:36 +0000      189 bytes  generators/app/templates/src/app/_index.constant\</tspan>
 <tspan x="10" y="1306">s.js</tspan>
-<tspan x="10" y="1322"> 63.  2017-04-11 17:13:35 +0000       62 bytes  generators/app/templates/src/app/_index.module.c\</tspan>
+<tspan x="10" y="1322"> 63.  2017-04-11 17:16:36 +0000       62 bytes  generators/app/templates/src/app/_index.module.c\</tspan>
 <tspan x="10" y="1338">offee</tspan>
-<tspan x="10" y="1354"> 64.  2017-04-11 17:13:35 +0000     1342 bytes  generators/app/templates/src/app/_index.module.e\</tspan>
+<tspan x="10" y="1354"> 64.  2017-04-11 17:16:36 +0000     1342 bytes  generators/app/templates/src/app/_index.module.e\</tspan>
 <tspan x="10" y="1370">s6</tspan>
-<tspan x="10" y="1386"> 65.  2017-04-11 17:13:35 +0000      109 bytes  generators/app/templates/src/app/_index.module.j\</tspan>
+<tspan x="10" y="1386"> 65.  2017-04-11 17:16:36 +0000      109 bytes  generators/app/templates/src/app/_index.module.j\</tspan>
 <tspan x="10" y="1402">s</tspan>
-<tspan x="10" y="1418"> 66.  2017-04-11 17:13:35 +0000     1450 bytes  generators/app/templates/src/app/_index.module.t\</tspan>
+<tspan x="10" y="1418"> 66.  2017-04-11 17:16:36 +0000     1450 bytes  generators/app/templates/src/app/_index.module.t\</tspan>
 <tspan x="10" y="1434">s</tspan>
-<tspan x="10" y="1450"> 67.  2017-04-11 17:13:35 +0000       94 bytes  generators/app/templates/src/app/_index.run.coff\</tspan>
+<tspan x="10" y="1450"> 67.  2017-04-11 17:16:36 +0000       94 bytes  generators/app/templates/src/app/_index.run.coff\</tspan>
 <tspan x="10" y="1466">ee</tspan>
-<tspan x="10" y="1482"> 68.  2017-04-11 17:13:35 +0000       80 bytes  generators/app/templates/src/app/_index.run.es6</tspan>
-<tspan x="10" y="1498"> 69.  2017-04-11 17:13:35 +0000      183 bytes  generators/app/templates/src/app/_index.run.js</tspan>
-<tspan x="10" y="1514"> 70.  2017-04-11 17:13:35 +0000      103 bytes  generators/app/templates/src/app/_index.run.ts</tspan>
-<tspan x="10" y="1530"> 71.  2017-04-11 17:13:35 +0000     2171 bytes  generators/app/templates/src/app/_material-desig\</tspan>
+<tspan x="10" y="1482"> 68.  2017-04-11 17:16:36 +0000       80 bytes  generators/app/templates/src/app/_index.run.es6</tspan>
+<tspan x="10" y="1498"> 69.  2017-04-11 17:16:36 +0000      183 bytes  generators/app/templates/src/app/_index.run.js</tspan>
+<tspan x="10" y="1514"> 70.  2017-04-11 17:16:36 +0000      103 bytes  generators/app/templates/src/app/_index.run.ts</tspan>
+<tspan x="10" y="1530"> 71.  2017-04-11 17:16:36 +0000     2171 bytes  generators/app/templates/src/app/_material-desig\</tspan>
 <tspan x="10" y="1546">n-lite/__material-design-lite-index.css</tspan>
-<tspan x="10" y="1562"> 72.  2017-04-11 17:13:35 +0000     2473 bytes  generators/app/templates/src/app/_material-desig\</tspan>
+<tspan x="10" y="1562"> 72.  2017-04-11 17:16:36 +0000     2473 bytes  generators/app/templates/src/app/_material-desig\</tspan>
 <tspan x="10" y="1578">n-lite/__material-design-lite-index.less</tspan>
-<tspan x="10" y="1594"> 73.  2017-04-11 17:13:35 +0000     2473 bytes  generators/app/templates/src/app/_material-desig\</tspan>
+<tspan x="10" y="1594"> 73.  2017-04-11 17:16:36 +0000     2473 bytes  generators/app/templates/src/app/_material-desig\</tspan>
 <tspan x="10" y="1610">n-lite/__material-design-lite-index.scss</tspan>
-<tspan x="10" y="1626"> 74.  2017-04-11 17:13:35 +0000     2400 bytes  generators/app/templates/src/app/_material-desig\</tspan>
+<tspan x="10" y="1626"> 74.  2017-04-11 17:16:36 +0000     2400 bytes  generators/app/templates/src/app/_material-desig\</tspan>
 <tspan x="10" y="1642">n-lite/__material-design-lite-index.styl</tspan>
-<tspan x="10" y="1658"> 75.  2017-04-11 17:13:35 +0000      312 bytes  generators/app/templates/src/app/_newrouter/__ne\</tspan>
+<tspan x="10" y="1658"> 75.  2017-04-11 17:16:36 +0000      312 bytes  generators/app/templates/src/app/_newrouter/__ne\</tspan>
 <tspan x="10" y="1674">wrouter.coffee</tspan>
-<tspan x="10" y="1690"> 76.  2017-04-11 17:13:35 +0000      333 bytes  generators/app/templates/src/app/_newrouter/__ne\</tspan>
+<tspan x="10" y="1690"> 76.  2017-04-11 17:16:36 +0000      333 bytes  generators/app/templates/src/app/_newrouter/__ne\</tspan>
 <tspan x="10" y="1706">wrouter.es6</tspan>
-<tspan x="10" y="1722"> 77.  2017-04-11 17:13:35 +0000      490 bytes  generators/app/templates/src/app/_newrouter/__ne\</tspan>
+<tspan x="10" y="1722"> 77.  2017-04-11 17:16:36 +0000      490 bytes  generators/app/templates/src/app/_newrouter/__ne\</tspan>
 <tspan x="10" y="1738">wrouter.js</tspan>
-<tspan x="10" y="1754"> 78.  2017-04-11 17:13:35 +0000      361 bytes  generators/app/templates/src/app/_newrouter/__ne\</tspan>
+<tspan x="10" y="1754"> 78.  2017-04-11 17:16:36 +0000      361 bytes  generators/app/templates/src/app/_newrouter/__ne\</tspan>
 <tspan x="10" y="1770">wrouter.ts</tspan>
-<tspan x="10" y="1786"> 79.  2017-04-11 17:13:35 +0000      262 bytes  generators/app/templates/src/app/_ngroute/__ngro\</tspan>
+<tspan x="10" y="1786"> 79.  2017-04-11 17:16:36 +0000      262 bytes  generators/app/templates/src/app/_ngroute/__ngro\</tspan>
 <tspan x="10" y="1802">ute.coffee</tspan>
-<tspan x="10" y="1818"> 80.  2017-04-11 17:13:35 +0000      256 bytes  generators/app/templates/src/app/_ngroute/__ngro\</tspan>
+<tspan x="10" y="1818"> 80.  2017-04-11 17:16:36 +0000      256 bytes  generators/app/templates/src/app/_ngroute/__ngro\</tspan>
 <tspan x="10" y="1834">ute.es6</tspan>
-<tspan x="10" y="1850"> 81.  2017-04-11 17:13:35 +0000      360 bytes  generators/app/templates/src/app/_ngroute/__ngro\</tspan>
+<tspan x="10" y="1850"> 81.  2017-04-11 17:16:36 +0000      360 bytes  generators/app/templates/src/app/_ngroute/__ngro\</tspan>
 <tspan x="10" y="1866">ute.js</tspan>
-<tspan x="10" y="1882"> 82.  2017-04-11 17:13:35 +0000      288 bytes  generators/app/templates/src/app/_ngroute/__ngro\</tspan>
+<tspan x="10" y="1882"> 82.  2017-04-11 17:16:36 +0000      288 bytes  generators/app/templates/src/app/_ngroute/__ngro\</tspan>
 <tspan x="10" y="1898">ute.ts</tspan>
-<tspan x="10" y="1914"> 83.  2017-04-11 17:13:35 +0000     1625 bytes  generators/app/templates/src/app/_noUI/__noUI-in\</tspan>
+<tspan x="10" y="1914"> 83.  2017-04-11 17:16:36 +0000     1625 bytes  generators/app/templates/src/app/_noUI/__noUI-in\</tspan>
 <tspan x="10" y="1930">dex.css</tspan>
-<tspan x="10" y="1946"> 84.  2017-04-11 17:13:35 +0000     2011 bytes  generators/app/templates/src/app/_noUI/__noUI-in\</tspan>
+<tspan x="10" y="1946"> 84.  2017-04-11 17:16:36 +0000     2011 bytes  generators/app/templates/src/app/_noUI/__noUI-in\</tspan>
 <tspan x="10" y="1962">dex.less</tspan>
-<tspan x="10" y="1978"> 85.  2017-04-11 17:13:35 +0000     2011 bytes  generators/app/templates/src/app/_noUI/__noUI-in\</tspan>
+<tspan x="10" y="1978"> 85.  2017-04-11 17:16:36 +0000     2011 bytes  generators/app/templates/src/app/_noUI/__noUI-in\</tspan>
 <tspan x="10" y="1994">dex.scss</tspan>
-<tspan x="10" y="2010"> 86.  2017-04-11 17:13:35 +0000     1801 bytes  generators/app/templates/src/app/_noUI/__noUI-in\</tspan>
+<tspan x="10" y="2010"> 86.  2017-04-11 17:16:36 +0000     1801 bytes  generators/app/templates/src/app/_noUI/__noUI-in\</tspan>
 <tspan x="10" y="2026">dex.styl</tspan>
-<tspan x="10" y="2042"> 87.  2017-04-11 17:13:35 +0000      300 bytes  generators/app/templates/src/app/_uirouter/__uir\</tspan>
+<tspan x="10" y="2042"> 87.  2017-04-11 17:16:36 +0000      300 bytes  generators/app/templates/src/app/_uirouter/__uir\</tspan>
 <tspan x="10" y="2058">outer.coffee</tspan>
-<tspan x="10" y="2074"> 88.  2017-04-11 17:13:35 +0000      288 bytes  generators/app/templates/src/app/_uirouter/__uir\</tspan>
+<tspan x="10" y="2074"> 88.  2017-04-11 17:16:36 +0000      288 bytes  generators/app/templates/src/app/_uirouter/__uir\</tspan>
 <tspan x="10" y="2090">outer.es6</tspan>
-<tspan x="10" y="2106"> 89.  2017-04-11 17:13:35 +0000      411 bytes  generators/app/templates/src/app/_uirouter/__uir\</tspan>
+<tspan x="10" y="2106"> 89.  2017-04-11 17:16:36 +0000      411 bytes  generators/app/templates/src/app/_uirouter/__uir\</tspan>
 <tspan x="10" y="2122">outer.js</tspan>
-<tspan x="10" y="2138"> 90.  2017-04-11 17:13:35 +0000      348 bytes  generators/app/templates/src/app/_uirouter/__uir\</tspan>
+<tspan x="10" y="2138"> 90.  2017-04-11 17:16:36 +0000      348 bytes  generators/app/templates/src/app/_uirouter/__uir\</tspan>
 <tspan x="10" y="2154">outer.ts</tspan>
-<tspan x="10" y="2170"> 91.  2017-04-11 17:13:35 +0000      620 bytes  generators/app/templates/src/app/components/gith\</tspan>
+<tspan x="10" y="2170"> 91.  2017-04-11 17:16:36 +0000      620 bytes  generators/app/templates/src/app/components/gith\</tspan>
 <tspan x="10" y="2186">ubContributor/_githubContributor.service.coffee</tspan>
-<tspan x="10" y="2202"> 92.  2017-04-11 17:13:35 +0000      530 bytes  generators/app/templates/src/app/components/gith\</tspan>
+<tspan x="10" y="2202"> 92.  2017-04-11 17:16:36 +0000      530 bytes  generators/app/templates/src/app/components/gith\</tspan>
 <tspan x="10" y="2218">ubContributor/_githubContributor.service.es6</tspan>
-<tspan x="10" y="2234"> 93.  2017-04-11 17:13:35 +0000      867 bytes  generators/app/templates/src/app/components/gith\</tspan>
+<tspan x="10" y="2234"> 93.  2017-04-11 17:16:36 +0000      867 bytes  generators/app/templates/src/app/components/gith\</tspan>
 <tspan x="10" y="2250">ubContributor/_githubContributor.service.js</tspan>
-<tspan x="10" y="2266"> 94.  2017-04-11 17:13:35 +0000     1751 bytes  generators/app/templates/src/app/components/gith\</tspan>
+<tspan x="10" y="2266"> 94.  2017-04-11 17:16:36 +0000     1751 bytes  generators/app/templates/src/app/components/gith\</tspan>
 <tspan x="10" y="2282">ubContributor/_githubContributor.service.spec.coffee</tspan>
-<tspan x="10" y="2298"> 95.  2017-04-11 17:13:35 +0000     1901 bytes  generators/app/templates/src/app/components/gith\</tspan>
+<tspan x="10" y="2298"> 95.  2017-04-11 17:16:36 +0000     1901 bytes  generators/app/templates/src/app/components/gith\</tspan>
 <tspan x="10" y="2314">ubContributor/_githubContributor.service.spec.es6</tspan>
-<tspan x="10" y="2330"> 96.  2017-04-11 17:13:35 +0000     2120 bytes  generators/app/templates/src/app/components/gith\</tspan>
+<tspan x="10" y="2330"> 96.  2017-04-11 17:16:36 +0000     2120 bytes  generators/app/templates/src/app/components/gith\</tspan>
 <tspan x="10" y="2346">ubContributor/_githubContributor.service.spec.js</tspan>
-<tspan x="10" y="2362"> 97.  2017-04-11 17:13:35 +0000     1760 bytes  generators/app/templates/src/app/components/gith\</tspan>
+<tspan x="10" y="2362"> 97.  2017-04-11 17:16:36 +0000     1760 bytes  generators/app/templates/src/app/components/gith\</tspan>
 <tspan x="10" y="2378">ubContributor/_githubContributor.service.spec.ts</tspan>
-<tspan x="10" y="2394"> 98.  2017-04-11 17:13:35 +0000      579 bytes  generators/app/templates/src/app/components/gith\</tspan>
+<tspan x="10" y="2394"> 98.  2017-04-11 17:16:36 +0000      579 bytes  generators/app/templates/src/app/components/gith\</tspan>
 <tspan x="10" y="2410">ubContributor/_githubContributor.service.ts</tspan>
-<tspan x="10" y="2426"> 99.  2017-04-11 17:13:35 +0000      316 bytes  generators/app/templates/src/app/components/mala\</tspan>
+<tspan x="10" y="2426"> 99.  2017-04-11 17:16:36 +0000      316 bytes  generators/app/templates/src/app/components/mala\</tspan>
 <tspan x="10" y="2442">rkey/__malarkey.css</tspan>
-<tspan x="10" y="2458">100.  2017-04-11 17:13:35 +0000      313 bytes  generators/app/templates/src/app/components/mala\</tspan>
+<tspan x="10" y="2458">100.  2017-04-11 17:16:36 +0000      313 bytes  generators/app/templates/src/app/components/mala\</tspan>
 <tspan x="10" y="2474">rkey/__malarkey.less</tspan>
-<tspan x="10" y="2490">101.  2017-04-11 17:13:35 +0000      313 bytes  generators/app/templates/src/app/components/mala\</tspan>
+<tspan x="10" y="2490">101.  2017-04-11 17:16:36 +0000      313 bytes  generators/app/templates/src/app/components/mala\</tspan>
 <tspan x="10" y="2506">rkey/__malarkey.scss</tspan>
-<tspan x="10" y="2522">102.  2017-04-11 17:13:35 +0000      265 bytes  generators/app/templates/src/app/components/mala\</tspan>
+<tspan x="10" y="2522">102.  2017-04-11 17:16:36 +0000      265 bytes  generators/app/templates/src/app/components/mala\</tspan>
 <tspan x="10" y="2538">rkey/__malarkey.styl</tspan>
-<tspan x="10" y="2554">103.  2017-04-11 17:13:35 +0000     1293 bytes  generators/app/templates/src/app/components/mala\</tspan>
+<tspan x="10" y="2554">103.  2017-04-11 17:16:36 +0000     1293 bytes  generators/app/templates/src/app/components/mala\</tspan>
 <tspan x="10" y="2570">rkey/_malarkey.directive.coffee</tspan>
-<tspan x="10" y="2586">104.  2017-04-11 17:13:35 +0000     1403 bytes  generators/app/templates/src/app/components/mala\</tspan>
+<tspan x="10" y="2586">104.  2017-04-11 17:16:36 +0000     1403 bytes  generators/app/templates/src/app/components/mala\</tspan>
 <tspan x="10" y="2602">rkey/_malarkey.directive.es6</tspan>
-<tspan x="10" y="2618">105.  2017-04-11 17:13:35 +0000     1590 bytes  generators/app/templates/src/app/components/mala\</tspan>
+<tspan x="10" y="2618">105.  2017-04-11 17:16:36 +0000     1590 bytes  generators/app/templates/src/app/components/mala\</tspan>
 <tspan x="10" y="2634">rkey/_malarkey.directive.js</tspan>
-<tspan x="10" y="2650">106.  2017-04-11 17:13:35 +0000     1059 bytes  generators/app/templates/src/app/components/mala\</tspan>
+<tspan x="10" y="2650">106.  2017-04-11 17:16:36 +0000     1059 bytes  generators/app/templates/src/app/components/mala\</tspan>
 <tspan x="10" y="2666">rkey/_malarkey.directive.spec.coffee</tspan>
-<tspan x="10" y="2682">107.  2017-04-11 17:13:35 +0000     1164 bytes  generators/app/templates/src/app/components/mala\</tspan>
+<tspan x="10" y="2682">107.  2017-04-11 17:16:36 +0000     1164 bytes  generators/app/templates/src/app/components/mala\</tspan>
 <tspan x="10" y="2698">rkey/_malarkey.directive.spec.es6</tspan>
-<tspan x="10" y="2714">108.  2017-04-11 17:13:35 +0000     1275 bytes  generators/app/templates/src/app/components/mala\</tspan>
+<tspan x="10" y="2714">108.  2017-04-11 17:16:36 +0000     1275 bytes  generators/app/templates/src/app/components/mala\</tspan>
 <tspan x="10" y="2730">rkey/_malarkey.directive.spec.js</tspan>
-<tspan x="10" y="2746">109.  2017-04-11 17:13:35 +0000     1478 bytes  generators/app/templates/src/app/components/mala\</tspan>
+<tspan x="10" y="2746">109.  2017-04-11 17:16:36 +0000     1478 bytes  generators/app/templates/src/app/components/mala\</tspan>
 <tspan x="10" y="2762">rkey/_malarkey.directive.spec.ts</tspan>
-<tspan x="10" y="2778">110.  2017-04-11 17:13:35 +0000     1776 bytes  generators/app/templates/src/app/components/mala\</tspan>
+<tspan x="10" y="2778">110.  2017-04-11 17:16:36 +0000     1776 bytes  generators/app/templates/src/app/components/mala\</tspan>
 <tspan x="10" y="2794">rkey/_malarkey.directive.ts</tspan>
-<tspan x="10" y="2810">111.  2017-04-11 17:13:35 +0000      514 bytes  generators/app/templates/src/app/components/navb\</tspan>
+<tspan x="10" y="2810">111.  2017-04-11 17:16:36 +0000      514 bytes  generators/app/templates/src/app/components/navb\</tspan>
 <tspan x="10" y="2826">ar/__angular-material-navbar.html</tspan>
-<tspan x="10" y="2842">112.  2017-04-11 17:13:35 +0000      728 bytes  generators/app/templates/src/app/components/navb\</tspan>
+<tspan x="10" y="2842">112.  2017-04-11 17:16:36 +0000      728 bytes  generators/app/templates/src/app/components/navb\</tspan>
 <tspan x="10" y="2858">ar/__bootstrap-navbar.html</tspan>
-<tspan x="10" y="2874">113.  2017-04-11 17:13:35 +0000      514 bytes  generators/app/templates/src/app/components/navb\</tspan>
+<tspan x="10" y="2874">113.  2017-04-11 17:16:36 +0000      514 bytes  generators/app/templates/src/app/components/navb\</tspan>
 <tspan x="10" y="2890">ar/__foundation-navbar.html</tspan>
-<tspan x="10" y="2906">114.  2017-04-11 17:13:35 +0000      672 bytes  generators/app/templates/src/app/components/navb\</tspan>
+<tspan x="10" y="2906">114.  2017-04-11 17:16:36 +0000      672 bytes  generators/app/templates/src/app/components/navb\</tspan>
 <tspan x="10" y="2922">ar/__material-design-lite-navbar.html</tspan>
-<tspan x="10" y="2938">115.  2017-04-11 17:13:35 +0000       38 bytes  generators/app/templates/src/app/components/navb\</tspan>
+<tspan x="10" y="2938">115.  2017-04-11 17:16:36 +0000       38 bytes  generators/app/templates/src/app/components/navb\</tspan>
 <tspan x="10" y="2954">ar/__navbar.css</tspan>
-<tspan x="10" y="2970">116.  2017-04-11 17:13:35 +0000       38 bytes  generators/app/templates/src/app/components/navb\</tspan>
+<tspan x="10" y="2970">116.  2017-04-11 17:16:36 +0000       38 bytes  generators/app/templates/src/app/components/navb\</tspan>
 <tspan x="10" y="2986">ar/__navbar.less</tspan>
-<tspan x="10" y="3002">117.  2017-04-11 17:13:35 +0000      166 bytes  generators/app/templates/src/app/components/navb\</tspan>
+<tspan x="10" y="3002">117.  2017-04-11 17:16:36 +0000      166 bytes  generators/app/templates/src/app/components/navb\</tspan>
 <tspan x="10" y="3018">ar/__navbar.scss</tspan>
-<tspan x="10" y="3034">118.  2017-04-11 17:13:35 +0000       33 bytes  generators/app/templates/src/app/components/navb\</tspan>
+<tspan x="10" y="3034">118.  2017-04-11 17:16:36 +0000       33 bytes  generators/app/templates/src/app/components/navb\</tspan>
 <tspan x="10" y="3050">ar/__navbar.styl</tspan>
-<tspan x="10" y="3066">119.  2017-04-11 17:13:35 +0000      352 bytes  generators/app/templates/src/app/components/navb\</tspan>
+<tspan x="10" y="3066">119.  2017-04-11 17:16:36 +0000      352 bytes  generators/app/templates/src/app/components/navb\</tspan>
 <tspan x="10" y="3082">ar/__noUI-navbar.html</tspan>
-<tspan x="10" y="3098">120.  2017-04-11 17:13:35 +0000      498 bytes  generators/app/templates/src/app/components/navb\</tspan>
+<tspan x="10" y="3098">120.  2017-04-11 17:16:36 +0000      498 bytes  generators/app/templates/src/app/components/navb\</tspan>
 <tspan x="10" y="3114">ar/_navbar.directive.coffee</tspan>
-<tspan x="10" y="3130">121.  2017-04-11 17:13:35 +0000      523 bytes  generators/app/templates/src/app/components/navb\</tspan>
+<tspan x="10" y="3130">121.  2017-04-11 17:16:36 +0000      523 bytes  generators/app/templates/src/app/components/navb\</tspan>
 <tspan x="10" y="3146">ar/_navbar.directive.es6</tspan>
-<tspan x="10" y="3162">122.  2017-04-11 17:13:35 +0000      676 bytes  generators/app/templates/src/app/components/navb\</tspan>
+<tspan x="10" y="3162">122.  2017-04-11 17:16:36 +0000      676 bytes  generators/app/templates/src/app/components/navb\</tspan>
 <tspan x="10" y="3178">ar/_navbar.directive.js</tspan>
-<tspan x="10" y="3194">123.  2017-04-11 17:13:35 +0000      962 bytes  generators/app/templates/src/app/components/navb\</tspan>
+<tspan x="10" y="3194">123.  2017-04-11 17:16:36 +0000      962 bytes  generators/app/templates/src/app/components/navb\</tspan>
 <tspan x="10" y="3210">ar/_navbar.directive.spec.coffee</tspan>
-<tspan x="10" y="3226">124.  2017-04-11 17:13:35 +0000     1053 bytes  generators/app/templates/src/app/components/navb\</tspan>
+<tspan x="10" y="3226">124.  2017-04-11 17:16:36 +0000     1053 bytes  generators/app/templates/src/app/components/navb\</tspan>
 <tspan x="10" y="3242">ar/_navbar.directive.spec.es6</tspan>
-<tspan x="10" y="3258">125.  2017-04-11 17:13:35 +0000     1399 bytes  generators/app/templates/src/app/components/navb\</tspan>
+<tspan x="10" y="3258">125.  2017-04-11 17:16:36 +0000     1399 bytes  generators/app/templates/src/app/components/navb\</tspan>
 <tspan x="10" y="3274">ar/_navbar.directive.spec.js</tspan>
-<tspan x="10" y="3290">126.  2017-04-11 17:13:35 +0000     1175 bytes  generators/app/templates/src/app/components/navb\</tspan>
+<tspan x="10" y="3290">126.  2017-04-11 17:16:36 +0000     1175 bytes  generators/app/templates/src/app/components/navb\</tspan>
 <tspan x="10" y="3306">ar/_navbar.directive.spec.ts</tspan>
-<tspan x="10" y="3322">127.  2017-04-11 17:13:35 +0000      600 bytes  generators/app/templates/src/app/components/navb\</tspan>
+<tspan x="10" y="3322">127.  2017-04-11 17:16:36 +0000      600 bytes  generators/app/templates/src/app/components/navb\</tspan>
 <tspan x="10" y="3338">ar/_navbar.directive.ts</tspan>
-<tspan x="10" y="3354">128.  2017-04-11 17:13:35 +0000      169 bytes  generators/app/templates/src/app/components/webD\</tspan>
+<tspan x="10" y="3354">128.  2017-04-11 17:16:36 +0000      169 bytes  generators/app/templates/src/app/components/webD\</tspan>
 <tspan x="10" y="3370">evTec/_webDevTec.service.coffee</tspan>
-<tspan x="10" y="3386">129.  2017-04-11 17:13:35 +0000      151 bytes  generators/app/templates/src/app/components/webD\</tspan>
+<tspan x="10" y="3386">129.  2017-04-11 17:16:36 +0000      151 bytes  generators/app/templates/src/app/components/webD\</tspan>
 <tspan x="10" y="3402">evTec/_webDevTec.service.es6</tspan>
-<tspan x="10" y="3418">130.  2017-04-11 17:13:35 +0000      282 bytes  generators/app/templates/src/app/components/webD\</tspan>
+<tspan x="10" y="3418">130.  2017-04-11 17:16:36 +0000      282 bytes  generators/app/templates/src/app/components/webD\</tspan>
 <tspan x="10" y="3434">evTec/_webDevTec.service.js</tspan>
-<tspan x="10" y="3450">131.  2017-04-11 17:13:35 +0000      526 bytes  generators/app/templates/src/app/components/webD\</tspan>
+<tspan x="10" y="3450">131.  2017-04-11 17:16:36 +0000      526 bytes  generators/app/templates/src/app/components/webD\</tspan>
 <tspan x="10" y="3466">evTec/_webDevTec.service.spec.coffee</tspan>
-<tspan x="10" y="3482">132.  2017-04-11 17:13:35 +0000      596 bytes  generators/app/templates/src/app/components/webD\</tspan>
+<tspan x="10" y="3482">132.  2017-04-11 17:16:36 +0000      596 bytes  generators/app/templates/src/app/components/webD\</tspan>
 <tspan x="10" y="3498">evTec/_webDevTec.service.spec.es6</tspan>
-<tspan x="10" y="3514">133.  2017-04-11 17:13:35 +0000      741 bytes  generators/app/templates/src/app/components/webD\</tspan>
+<tspan x="10" y="3514">133.  2017-04-11 17:16:36 +0000      741 bytes  generators/app/templates/src/app/components/webD\</tspan>
 <tspan x="10" y="3530">evTec/_webDevTec.service.spec.js</tspan>
-<tspan x="10" y="3546">134.  2017-04-11 17:13:35 +0000      532 bytes  generators/app/templates/src/app/components/webD\</tspan>
+<tspan x="10" y="3546">134.  2017-04-11 17:16:36 +0000      532 bytes  generators/app/templates/src/app/components/webD\</tspan>
 <tspan x="10" y="3562">evTec/_webDevTec.service.spec.ts</tspan>
-<tspan x="10" y="3578">135.  2017-04-11 17:13:35 +0000      460 bytes  generators/app/templates/src/app/components/webD\</tspan>
+<tspan x="10" y="3578">135.  2017-04-11 17:16:36 +0000      460 bytes  generators/app/templates/src/app/components/webD\</tspan>
 <tspan x="10" y="3594">evTec/_webDevTec.service.ts</tspan>
-<tspan x="10" y="3610">136.  2017-04-11 17:13:35 +0000     1242 bytes  generators/app/templates/src/app/main/__angular-\</tspan>
+<tspan x="10" y="3610">136.  2017-04-11 17:16:36 +0000     1242 bytes  generators/app/templates/src/app/main/__angular-\</tspan>
 <tspan x="10" y="3626">material.html</tspan>
-<tspan x="10" y="3642">137.  2017-04-11 17:13:35 +0000     1168 bytes  generators/app/templates/src/app/main/__bootstra\</tspan>
+<tspan x="10" y="3642">137.  2017-04-11 17:16:36 +0000     1168 bytes  generators/app/templates/src/app/main/__bootstra\</tspan>
 <tspan x="10" y="3658">p.html</tspan>
-<tspan x="10" y="3674">138.  2017-04-11 17:13:35 +0000     1226 bytes  generators/app/templates/src/app/main/__foundati\</tspan>
+<tspan x="10" y="3674">138.  2017-04-11 17:16:36 +0000     1226 bytes  generators/app/templates/src/app/main/__foundati\</tspan>
 <tspan x="10" y="3690">on.html</tspan>
-<tspan x="10" y="3706">139.  2017-04-11 17:13:35 +0000     2539 bytes  generators/app/templates/src/app/main/__material\</tspan>
+<tspan x="10" y="3706">139.  2017-04-11 17:16:36 +0000     2539 bytes  generators/app/templates/src/app/main/__material\</tspan>
 <tspan x="10" y="3722">-design-lite.html</tspan>
-<tspan x="10" y="3738">140.  2017-04-11 17:13:35 +0000     1071 bytes  generators/app/templates/src/app/main/__noUI.htm\</tspan>
+<tspan x="10" y="3738">140.  2017-04-11 17:16:36 +0000     1071 bytes  generators/app/templates/src/app/main/__noUI.htm\</tspan>
 <tspan x="10" y="3754">l</tspan>
-<tspan x="10" y="3770">141.  2017-04-11 17:13:35 +0000      819 bytes  generators/app/templates/src/app/main/_main.cont\</tspan>
+<tspan x="10" y="3770">141.  2017-04-11 17:16:36 +0000      819 bytes  generators/app/templates/src/app/main/_main.cont\</tspan>
 <tspan x="10" y="3786">roller.coffee</tspan>
-<tspan x="10" y="3802">142.  2017-04-11 17:13:35 +0000      806 bytes  generators/app/templates/src/app/main/_main.cont\</tspan>
+<tspan x="10" y="3802">142.  2017-04-11 17:16:36 +0000      806 bytes  generators/app/templates/src/app/main/_main.cont\</tspan>
 <tspan x="10" y="3818">roller.es6</tspan>
-<tspan x="10" y="3834">143.  2017-04-11 17:13:35 +0000      926 bytes  generators/app/templates/src/app/main/_main.cont\</tspan>
+<tspan x="10" y="3834">143.  2017-04-11 17:16:36 +0000      926 bytes  generators/app/templates/src/app/main/_main.cont\</tspan>
 <tspan x="10" y="3850">roller.js</tspan>
-<tspan x="10" y="3866">144.  2017-04-11 17:13:35 +0000      925 bytes  generators/app/templates/src/app/main/_main.cont\</tspan>
+<tspan x="10" y="3866">144.  2017-04-11 17:16:36 +0000      925 bytes  generators/app/templates/src/app/main/_main.cont\</tspan>
 <tspan x="10" y="3882">roller.spec.coffee</tspan>
-<tspan x="10" y="3898">145.  2017-04-11 17:13:35 +0000      997 bytes  generators/app/templates/src/app/main/_main.cont\</tspan>
+<tspan x="10" y="3898">145.  2017-04-11 17:16:36 +0000      997 bytes  generators/app/templates/src/app/main/_main.cont\</tspan>
 <tspan x="10" y="3914">roller.spec.es6</tspan>
-<tspan x="10" y="3930">146.  2017-04-11 17:13:35 +0000     1186 bytes  generators/app/templates/src/app/main/_main.cont\</tspan>
+<tspan x="10" y="3930">146.  2017-04-11 17:16:36 +0000     1186 bytes  generators/app/templates/src/app/main/_main.cont\</tspan>
 <tspan x="10" y="3946">roller.spec.js</tspan>
-<tspan x="10" y="3962">147.  2017-04-11 17:13:35 +0000     1225 bytes  generators/app/templates/src/app/main/_main.cont\</tspan>
+<tspan x="10" y="3962">147.  2017-04-11 17:16:36 +0000     1225 bytes  generators/app/templates/src/app/main/_main.cont\</tspan>
 <tspan x="10" y="3978">roller.spec.ts</tspan>
-<tspan x="10" y="3994">148.  2017-04-11 17:13:35 +0000     1042 bytes  generators/app/templates/src/app/main/_main.cont\</tspan>
+<tspan x="10" y="3994">148.  2017-04-11 17:16:36 +0000     1042 bytes  generators/app/templates/src/app/main/_main.cont\</tspan>
 <tspan x="10" y="4010">roller.ts</tspan>
-<tspan x="10" y="4026">149.  2017-04-11 17:13:35 +0000    11621 bytes  generators/app/templates/src/assets/images/angul\</tspan>
+<tspan x="10" y="4026">149.  2017-04-11 17:16:36 +0000    11621 bytes  generators/app/templates/src/assets/images/angul\</tspan>
 <tspan x="10" y="4042">ar-foundation.png</tspan>
-<tspan x="10" y="4058">150.  2017-04-11 17:13:35 +0000     2119 bytes  generators/app/templates/src/assets/images/angul\</tspan>
+<tspan x="10" y="4058">150.  2017-04-11 17:16:36 +0000     2119 bytes  generators/app/templates/src/assets/images/angul\</tspan>
 <tspan x="10" y="4074">ar-material.png</tspan>
-<tspan x="10" y="4090">151.  2017-04-11 17:13:35 +0000    11174 bytes  generators/app/templates/src/assets/images/angul\</tspan>
+<tspan x="10" y="4090">151.  2017-04-11 17:16:36 +0000    11174 bytes  generators/app/templates/src/assets/images/angul\</tspan>
 <tspan x="10" y="4106">ar-strap.png</tspan>
-<tspan x="10" y="4122">152.  2017-04-11 17:13:35 +0000    13522 bytes  generators/app/templates/src/assets/images/angul\</tspan>
+<tspan x="10" y="4122">152.  2017-04-11 17:16:36 +0000    13522 bytes  generators/app/templates/src/assets/images/angul\</tspan>
 <tspan x="10" y="4138">ar.png</tspan>
-<tspan x="10" y="4154">153.  2017-04-11 17:13:35 +0000     8662 bytes  generators/app/templates/src/assets/images/babel\</tspan>
+<tspan x="10" y="4154">153.  2017-04-11 17:16:36 +0000     8662 bytes  generators/app/templates/src/assets/images/babel\</tspan>
 <tspan x="10" y="4170">.png</tspan>
-<tspan x="10" y="4186">154.  2017-04-11 17:13:35 +0000    12923 bytes  generators/app/templates/src/assets/images/boots\</tspan>
+<tspan x="10" y="4186">154.  2017-04-11 17:16:36 +0000    12923 bytes  generators/app/templates/src/assets/images/boots\</tspan>
 <tspan x="10" y="4202">trap.png</tspan>
-<tspan x="10" y="4218">155.  2017-04-11 17:13:35 +0000    11615 bytes  generators/app/templates/src/assets/images/brows\</tspan>
+<tspan x="10" y="4218">155.  2017-04-11 17:16:36 +0000    11615 bytes  generators/app/templates/src/assets/images/brows\</tspan>
 <tspan x="10" y="4234">ersync.png</tspan>
-<tspan x="10" y="4250">156.  2017-04-11 17:13:35 +0000    10825 bytes  generators/app/templates/src/assets/images/coffe\</tspan>
+<tspan x="10" y="4250">156.  2017-04-11 17:16:36 +0000    10825 bytes  generators/app/templates/src/assets/images/coffe\</tspan>
 <tspan x="10" y="4266">escript.png</tspan>
-<tspan x="10" y="4282">157.  2017-04-11 17:13:35 +0000    11010 bytes  generators/app/templates/src/assets/images/found\</tspan>
+<tspan x="10" y="4282">157.  2017-04-11 17:16:36 +0000    11010 bytes  generators/app/templates/src/assets/images/found\</tspan>
 <tspan x="10" y="4298">ation.png</tspan>
-<tspan x="10" y="4314">158.  2017-04-11 17:13:35 +0000     6118 bytes  generators/app/templates/src/assets/images/gener\</tspan>
+<tspan x="10" y="4314">158.  2017-04-11 17:16:36 +0000     6118 bytes  generators/app/templates/src/assets/images/gener\</tspan>
 <tspan x="10" y="4330">ator-gulp-angular-logo.png</tspan>
-<tspan x="10" y="4346">159.  2017-04-11 17:13:35 +0000    10678 bytes  generators/app/templates/src/assets/images/gulp.\</tspan>
+<tspan x="10" y="4346">159.  2017-04-11 17:16:36 +0000    10678 bytes  generators/app/templates/src/assets/images/gulp.\</tspan>
 <tspan x="10" y="4362">png</tspan>
-<tspan x="10" y="4378">160.  2017-04-11 17:13:35 +0000     8772 bytes  generators/app/templates/src/assets/images/haml.\</tspan>
+<tspan x="10" y="4378">160.  2017-04-11 17:16:36 +0000     8772 bytes  generators/app/templates/src/assets/images/haml.\</tspan>
 <tspan x="10" y="4394">png</tspan>
-<tspan x="10" y="4410">161.  2017-04-11 17:13:35 +0000     6619 bytes  generators/app/templates/src/assets/images/handl\</tspan>
+<tspan x="10" y="4410">161.  2017-04-11 17:16:36 +0000     6619 bytes  generators/app/templates/src/assets/images/handl\</tspan>
 <tspan x="10" y="4426">ebars.png</tspan>
-<tspan x="10" y="4442">162.  2017-04-11 17:13:35 +0000     3494 bytes  generators/app/templates/src/assets/images/jade.\</tspan>
+<tspan x="10" y="4442">162.  2017-04-11 17:16:36 +0000     3494 bytes  generators/app/templates/src/assets/images/jade.\</tspan>
 <tspan x="10" y="4458">png</tspan>
-<tspan x="10" y="4474">163.  2017-04-11 17:13:35 +0000    15828 bytes  generators/app/templates/src/assets/images/jasmi\</tspan>
+<tspan x="10" y="4474">163.  2017-04-11 17:16:36 +0000    15828 bytes  generators/app/templates/src/assets/images/jasmi\</tspan>
 <tspan x="10" y="4490">ne.png</tspan>
-<tspan x="10" y="4506">164.  2017-04-11 17:13:35 +0000     9032 bytes  generators/app/templates/src/assets/images/jquer\</tspan>
+<tspan x="10" y="4506">164.  2017-04-11 17:16:36 +0000     9032 bytes  generators/app/templates/src/assets/images/jquer\</tspan>
 <tspan x="10" y="4522">y.jpg</tspan>
-<tspan x="10" y="4538">165.  2017-04-11 17:13:35 +0000    10130 bytes  generators/app/templates/src/assets/images/karma\</tspan>
+<tspan x="10" y="4538">165.  2017-04-11 17:16:36 +0000    10130 bytes  generators/app/templates/src/assets/images/karma\</tspan>
 <tspan x="10" y="4554">.png</tspan>
-<tspan x="10" y="4570">166.  2017-04-11 17:13:35 +0000    14221 bytes  generators/app/templates/src/assets/images/less.\</tspan>
+<tspan x="10" y="4570">166.  2017-04-11 17:16:36 +0000    14221 bytes  generators/app/templates/src/assets/images/less.\</tspan>
 <tspan x="10" y="4586">png</tspan>
-<tspan x="10" y="4602">167.  2017-04-11 17:13:35 +0000     1316 bytes  generators/app/templates/src/assets/images/mater\</tspan>
+<tspan x="10" y="4602">167.  2017-04-11 17:16:36 +0000     1316 bytes  generators/app/templates/src/assets/images/mater\</tspan>
 <tspan x="10" y="4618">ial-design-lite.png</tspan>
-<tspan x="10" y="4634">168.  2017-04-11 17:13:35 +0000     4967 bytes  generators/app/templates/src/assets/images/node-\</tspan>
+<tspan x="10" y="4634">168.  2017-04-11 17:16:36 +0000     4967 bytes  generators/app/templates/src/assets/images/node-\</tspan>
 <tspan x="10" y="4650">sass.png</tspan>
-<tspan x="10" y="4666">169.  2017-04-11 17:13:35 +0000    10186 bytes  generators/app/templates/src/assets/images/protr\</tspan>
+<tspan x="10" y="4666">169.  2017-04-11 17:16:36 +0000    10186 bytes  generators/app/templates/src/assets/images/protr\</tspan>
 <tspan x="10" y="4682">actor.png</tspan>
-<tspan x="10" y="4698">170.  2017-04-11 17:13:35 +0000     5232 bytes  generators/app/templates/src/assets/images/ruby-\</tspan>
+<tspan x="10" y="4698">170.  2017-04-11 17:16:36 +0000     5232 bytes  generators/app/templates/src/assets/images/ruby-\</tspan>
 <tspan x="10" y="4714">sass.png</tspan>
-<tspan x="10" y="4730">171.  2017-04-11 17:13:35 +0000     2442 bytes  generators/app/templates/src/assets/images/stylu\</tspan>
+<tspan x="10" y="4730">171.  2017-04-11 17:16:36 +0000     2442 bytes  generators/app/templates/src/assets/images/stylu\</tspan>
 <tspan x="10" y="4746">s.png</tspan>
-<tspan x="10" y="4762">172.  2017-04-11 17:13:35 +0000     2542 bytes  generators/app/templates/src/assets/images/trace\</tspan>
+<tspan x="10" y="4762">172.  2017-04-11 17:16:36 +0000     2542 bytes  generators/app/templates/src/assets/images/trace\</tspan>
 <tspan x="10" y="4778">ur.png</tspan>
-<tspan x="10" y="4794">173.  2017-04-11 17:13:35 +0000     4941 bytes  generators/app/templates/src/assets/images/types\</tspan>
+<tspan x="10" y="4794">173.  2017-04-11 17:16:36 +0000     4941 bytes  generators/app/templates/src/assets/images/types\</tspan>
 <tspan x="10" y="4810">cript.png</tspan>
-<tspan x="10" y="4826">174.  2017-04-11 17:13:35 +0000    13561 bytes  generators/app/templates/src/assets/images/ui-bo\</tspan>
+<tspan x="10" y="4826">174.  2017-04-11 17:16:36 +0000    13561 bytes  generators/app/templates/src/assets/images/ui-bo\</tspan>
 <tspan x="10" y="4842">otstrap.png</tspan>
-<tspan x="10" y="4858">175.  2017-04-11 17:13:35 +0000    13501 bytes  generators/app/templates/src/assets/images/yeoma\</tspan>
+<tspan x="10" y="4858">175.  2017-04-11 17:16:36 +0000    13501 bytes  generators/app/templates/src/assets/images/yeoma\</tspan>
 <tspan x="10" y="4874">n.png</tspan>
-<tspan x="10" y="4890">176.  2017-04-11 17:13:35 +0000    17491 bytes  generators/app/templates/src/assets/images/zepto\</tspan>
+<tspan x="10" y="4890">176.  2017-04-11 17:16:36 +0000    17491 bytes  generators/app/templates/src/assets/images/zepto\</tspan>
 <tspan x="10" y="4906">.png</tspan>
-<tspan x="10" y="4922">177.  2017-04-11 17:13:35 +0000     4286 bytes  generators/app/templates/src/favicon.ico</tspan>
-<tspan x="10" y="4938">178.  2017-04-11 17:13:35 +0000      181 bytes  generators/app/templates/tsconfig.json</tspan>
-<tspan x="10" y="4954">179.  2017-04-11 17:13:35 +0000     1964 bytes  generators/app/templates/tslint.json</tspan>
-<tspan x="10" y="4970">180.  2017-04-11 17:13:35 +0000       80 bytes  index.js</tspan>
-<tspan x="10" y="4986">181.  2017-04-11 17:13:35 +0000     4090 bytes  package.json</tspan>
+<tspan x="10" y="4922">177.  2017-04-11 17:16:36 +0000     4286 bytes  generators/app/templates/src/favicon.ico</tspan>
+<tspan x="10" y="4938">178.  2017-04-11 17:16:36 +0000      181 bytes  generators/app/templates/tsconfig.json</tspan>
+<tspan x="10" y="4954">179.  2017-04-11 17:16:36 +0000     1964 bytes  generators/app/templates/tslint.json</tspan>
+<tspan x="10" y="4970">180.  2017-04-11 17:16:36 +0000       80 bytes  index.js</tspan>
+<tspan x="10" y="4986">181.  2017-04-11 17:16:36 +0000     4090 bytes  package.json</tspan>
 </text>
 </svg>
