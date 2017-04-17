@@ -1,7 +1,7 @@
 # test coverage for  [generator-gulp-angular (v1.1.1)](https://github.com/swiip/generator-gulp-angular#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-generator-gulp-angular.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-generator-gulp-angular) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-generator-gulp-angular.svg)](https://travis-ci.org/npmtest/node-npmtest-generator-gulp-angular)
 #### Yeoman generator for AngularJS with Gulp
 
-[![NPM](https://nodei.co/npm/generator-gulp-angular.png?downloads=true)](https://www.npmjs.com/package/generator-gulp-angular)
+[![NPM](https://nodei.co/npm/generator-gulp-angular.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/generator-gulp-angular)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-generator-gulp-angular/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-generator-gulp-angular/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-generator-gulp-angular/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-generator-gulp-angular/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-generator-gulp-angular/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-generator-gulp-angular/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-generator-gulp-angular/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-generator-gulp-angular/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-generator-gulp-angular/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-generator-gulp-angular/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-generator-gulp-angular%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-generator-gulp-angular/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-generator-gulp-angular/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-generator-gulp-angular/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-generator-gulp-angular/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-generator-gulp-angular%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-generator-gulp-angular/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-generator-gulp-angular/build/test-report.html](https://npmtest.github.io/node-npmtest-generator-gulp-angular/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-generator-gulp-angular/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-generator-gulp-angular/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-generator-gulp-angular/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-generator-gulp-angular/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-generator-gulp-angular/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-generator-gulp-angular/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-generator-gulp-angular/build/screenCapture.npmPackageListing.svg)
 
@@ -35,12 +41,10 @@
     "contributors": [
         {
             "name": "Matthieu Lux",
-            "email": "matthieu.lux@gmail.com",
             "url": "https://github.com/Swiip"
         },
         {
             "name": "Mehdy Dara",
-            "email": "mdara@eleven-labs.com",
             "url": "http://eleven-labs.com/"
         }
     ],
@@ -112,18 +116,15 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "swiip",
-            "email": "matthieu.lux@gmail.com"
+            "name": "swiip"
         },
         {
-            "name": "zckrs",
-            "email": "mdara@eleven-labs.com"
+            "name": "zckrs"
         }
     ],
     "name": "generator-gulp-angular",
     "optionalDependencies": {},
     "preferGlobal": true,
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/swiip/generator-gulp-angular.git"
