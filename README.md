@@ -1,4 +1,7 @@
-# test coverage for  [generator-gulp-angular (v1.1.1)](https://github.com/swiip/generator-gulp-angular#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-generator-gulp-angular.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-generator-gulp-angular) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-generator-gulp-angular.svg)](https://travis-ci.org/npmtest/node-npmtest-generator-gulp-angular)
+# npmtest-generator-gulp-angular
+
+#### basic test coverage for  [generator-gulp-angular (v1.1.1)](https://github.com/swiip/generator-gulp-angular#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-generator-gulp-angular.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-generator-gulp-angular) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-generator-gulp-angular.svg)](https://travis-ci.org/npmtest/node-npmtest-generator-gulp-angular)
+
 #### Yeoman generator for AngularJS with Gulp
 
 [![NPM](https://nodei.co/npm/generator-gulp-angular.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/generator-gulp-angular)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-generator-gulp-angular/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-generator-gulp-angular/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-generator-gulp-angular/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-generator-gulp-angular/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-generator-gulp-angular/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-generator-gulp-angular/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-generator-gulp-angular/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-generator-gulp-angular/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-generator-gulp-angular/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-generator-gulp-angular/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-generator-gulp-angular/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-generator-gulp-angular/build/coverage.html/index.html)
 
@@ -135,7 +138,8 @@
         "test": "istanbul cover _mocha -- test/node test/template && mocha test/inception/test-inception.js -ig protractor --no-insight",
         "update-shrinkwrap": "./scripts/update-test-shrinkwrap.sh"
     },
-    "version": "1.1.1"
+    "version": "1.1.1",
+    "bin": {}
 }
 ```
 
