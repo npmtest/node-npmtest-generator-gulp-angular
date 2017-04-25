@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <title>Code coverage report for node-npmtest-generator-gulp-angular/node_modules/generator-gulp-angular/index.js</title>
+    <title>Code coverage report for node-npmtest-generator-gulp-angular/node_modules/generator-gulp-angular/generators/app/src/options.js</title>
     <meta charset="utf-8">
     <style>
         body, html {
@@ -190,27 +190,27 @@
     </style>
 </head>
 <body>
-<div class="header high">
+<div class="header low">
     <h1 style="font-weight: bold;">
         <a href="https://github.com/npmtest/node-npmtest-generator-gulp-angular">npmtest-generator-gulp-angular (v0.0.2)</a>
     </h1>
-    <h1>Code coverage report for <span class="entity">node-npmtest-generator-gulp-angular/node_modules/generator-gulp-angular/index.js</span></h1>
+    <h1>Code coverage report for <span class="entity">node-npmtest-generator-gulp-angular/node_modules/generator-gulp-angular/generators/app/src/options.js</span></h1>
     <h2>
         
-        Statements: <span class="metric">100% <small>(1 / 1)</small></span> &nbsp;&nbsp;&nbsp;&nbsp;
+        Statements: <span class="metric">40% <small>(4 / 10)</small></span> &nbsp;&nbsp;&nbsp;&nbsp;
         
         
-        Branches: <span class="metric">100% <small>(0 / 0)</small></span> &nbsp;&nbsp;&nbsp;&nbsp;
+        Branches: <span class="metric">0% <small>(0 / 2)</small></span> &nbsp;&nbsp;&nbsp;&nbsp;
         
         
-        Functions: <span class="metric">100% <small>(0 / 0)</small></span> &nbsp;&nbsp;&nbsp;&nbsp;
+        Functions: <span class="metric">0% <small>(0 / 4)</small></span> &nbsp;&nbsp;&nbsp;&nbsp;
         
         
-        Lines: <span class="metric">100% <small>(1 / 1)</small></span> &nbsp;&nbsp;&nbsp;&nbsp;
+        Lines: <span class="metric">40% <small>(4 / 10)</small></span> &nbsp;&nbsp;&nbsp;&nbsp;
         
         Ignored: <span class="metric"><span class="ignore-none">none</span></span> &nbsp;&nbsp;&nbsp;&nbsp;
     </h2>
-    <div class="path"><a href="../../../index.html">All files</a> &#187; <a href="index.html">node-npmtest-generator-gulp-angular/node_modules/generator-gulp-angular/</a> &#187; index.js</div>
+    <div class="path"><a href="../../../../../../index.html">All files</a> &#187; <a href="index.html">node-npmtest-generator-gulp-angular/node_modules/generator-gulp-angular/generators/app/src/</a> &#187; options.js</div>
 </div>
 <div class="body">
 <pre><table class="coverage">
@@ -220,23 +220,107 @@
 4
 5
 6
-7</td><td class="line-coverage"><span class="cline-any cline-neutral">&nbsp;</span>
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35</td><td class="line-coverage"><span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-yes">1</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span></td><td class="text"><pre class="prettyprint lang-js">'use strict';
 &nbsp;
-module.exports = {
-  app: require.resolve('./generators/app')
+var path = require('path');
+&nbsp;
+var s = require('underscore.string');
+&nbsp;
+var options = require('../options.json');
+&nbsp;
+module.exports = <span class="fstat-no" title="function not covered" >function (GulpAngularGenerator) {</span>
+&nbsp;
+  /**
+   * Declares options in the generator (only used for the help messages)
+   */
+<span class="cstat-no" title="statement not covered" >  GulpAngularGenerator.prototype.defineOptions = <span class="fstat-no" title="function not covered" >function defineOptions() {</span></span>
+<span class="cstat-no" title="statement not covered" >    options.forEach(<span class="fstat-no" title="function not covered" >function (option) {</span></span>
+<span class="cstat-no" title="statement not covered" >      this.option(option.name, {</span>
+        type: global[option.type],
+        required: option.required,
+        desc: option.desc,
+        defaults: option.defaults
+      });
+    }, this);
+  };
+&nbsp;
+  /**
+   * Determine the appName either from the current directory or the parameter of the generator
+   */
+<span class="cstat-no" title="statement not covered" >  GulpAngularGenerator.prototype.determineAppName = <span class="fstat-no" title="function not covered" >function determineAppName() {</span></span>
+<span class="cstat-no" title="statement not covered" >    this.appName = this.appName || path.basename(process.cwd());</span>
+<span class="cstat-no" title="statement not covered" >    this.appName = s.camelize(s.slugify(s.humanize(this.appName)));</span>
+  };
+&nbsp;
 };
 &nbsp;
 &nbsp;</pre></td></tr>
 </table></pre>
 </div>
 <div class="footer">
-    <div class="meta">Generated by <a href="https://github.com/kaizhu256/node-utility2" target="_blank">utility2</a> at Mon Apr 17 2017 21:18:27 GMT+0000 (UTC)</div>
+    <div class="meta">Generated by <a href="https://github.com/kaizhu256/node-utility2" target="_blank">utility2</a> at Tue Apr 25 2017 10:51:43 GMT+0000 (UTC)</div>
 </div>
 </body>
 </html>
